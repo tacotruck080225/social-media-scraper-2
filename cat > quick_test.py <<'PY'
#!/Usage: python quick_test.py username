@@ -1,0 +1,1 @@
+Usage: python quick_test.py username
