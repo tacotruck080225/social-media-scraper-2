@@ -1,1 +1,1 @@
-Usage: python quick_test.py username
+quick_test.py
